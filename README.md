@@ -1,4 +1,4 @@
-# Payment System for Disney.
+# Payment System for Disney
 Creacion de un sistema de pagos para Disney con Solidity. Creation of a Payment system for Disney with Solidity.
 
 Este Smart Contract esta basado en Disney y puede ser utilizado para cualquier otro parque temático. Los usuarios pueden interactuar con el contracto comprando Tokens que han sido minteados por el Dueño del Smart Contract (Disney) usando el protocolo ERC20.
