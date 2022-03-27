@@ -21,4 +21,4 @@ Los usuarios pueden devolver los tokens que no se han utilizado por Ethers y est
 
 ## Dependencias
 
-El Smart Contract DISNEY.sol necesitara la importacion de otros dos Smart Contracts llamados ERC20.sol y SafeMatch.sol para su perfecta función.
+El Smart Contract Disney.sol necesitara la importacion de otros dos Smart Contracts llamados ERC20.sol y SafeMatch.sol para su perfecta función.
